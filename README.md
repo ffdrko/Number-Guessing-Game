@@ -1,0 +1,1 @@
+A simple Python program that allows users to guess a randomly generated number. The game offers two difficulty levels: easy (with more chances to guess) and hard (with fewer chances). Try your luck and see if you can guess the correct number!
